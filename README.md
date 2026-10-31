@@ -49,13 +49,6 @@ All ratings are stored in your browser's `localStorage`. Nothing is sent anywher
 - clearing the browser data deletes your ratings,
 - the same page opened in a different browser or device starts empty.
 
-## Deploy with GitHub Pages
-
-1. Put `index.html` in the root of this repository.
-2. Go to **Settings → Pages**.
-3. Under **Branch**, select `main` and `/ (root)`, then save.
-4. After a minute or two the app is available at `https://<your-username>.github.io/<repository-name>/`.
-
 ## Tech
 
 Plain HTML, CSS and JavaScript in a single file. Supports light and dark mode automatically.
